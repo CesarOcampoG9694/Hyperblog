@@ -5,3 +5,5 @@ Tengo 26 años y soy de nacionalidad mexicana.
 Soy estudiante de ingeniería en computación de la UNAM
 
 Y estoy siendo un aprendiz en Git
+
+Se me olvidaba decir que le voy al Cruz Azul y este domingo será campeón de la liga
