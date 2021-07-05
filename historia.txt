@@ -6,4 +6,6 @@ Soy estudiante de ingeniería en computación de la UNAM
 
 Y estoy siendo un aprendiz en Git
 
-Se me olvidaba decir que le voy al Cruz Azul y este domingo será campeón de la liga
+Se me olvidaba decir que le voy al Cruz Azul y este domingo será campeón de la liga.
+
+Actualización, mi equipo de futbol sí fue campeón y consiguio su noveno título.
