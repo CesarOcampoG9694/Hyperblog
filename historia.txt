@@ -1,9 +1,13 @@
 Qué tal, soy César Ocampo
 
-Tengo 26 años y soy de nacionalidad mexicana.
+Tengo 27 años y soy de nacionalidad mexicana.
 
 Soy estudiante de ingeniería en computación de la UNAM
 
-Y estoy siendo un aprendiz en Git
+Y estoy siendo un aprendiz en Git, me convertiré en un full stack js
 
-Este es un cambio de prueba, realmente no representa un avance.
+Se me olvidaba decir que le voy al Cruz Azul y este domingo será campeón de la liga.
+
+Actualización, mi equipo de futbol sí fue campeón y consiguio su noveno título.
+
+vamos a hablar de mi vida laboral
